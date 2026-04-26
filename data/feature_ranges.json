@@ -1,0 +1,30 @@
+{
+  "Aspect Ratio": [
+    1.0,
+    2.5
+  ],
+  "Orientation": [
+    0.0,
+    135.0
+  ],
+  "WWR": [
+    0.2,
+    0.65
+  ],
+  "Glass U-factor": [
+    1.0,
+    5.7
+  ],
+  "SHGC": [
+    0.25,
+    0.6
+  ],
+  "Lighting Power Density": [
+    4.0,
+    8.0
+  ],
+  "EX-Wall Insulation Thickness": [
+    0.01,
+    0.09
+  ]
+}
